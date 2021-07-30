@@ -1,0 +1,125 @@
+h1 {
+    text-align: center;
+    background-color: sandybrown;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid green 5px;
+    border-radius: 10px;
+
+}
+
+
+
+#navbar {
+    border: solid black 5px;
+    display:flex;
+    justify-content: space-around;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+
+
+.items:hover{
+    background-color: black;
+    opacity:0.5;
+}
+
+a{
+    width: 40%;
+    text-align: center;
+    text-decoration: none;
+}
+
+h2 {
+    text-align: center;
+    background-color:black;
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: solid white 5px;
+    border-radius: 10px;
+}
+#img1 {
+    border: solid blue 5px;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    display:flex;
+    justify-content:space-between
+}
+
+#food {
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: black;
+    border: solid black 5px;
+    border-radius: 10px;
+
+}
+
+#list {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: white;
+    border: solid black 5px;
+    border-radius: 10px;
+    display:flex;
+    justify-content:space-between
+
+}
+
+#foodtitle {
+    font-size: 40px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid red 5px;
+    border-radius: 10px;
+}
+
+h3 {
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+#speak {
+    font-size: 50px;
+    border:solid red 5px;
+}
+
+
+h4 {
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid green 5px;
+    border-radius: 10px;
+    font-size: 40px;
+}
+
+#goal {
+    border: solid orange 5px;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    display:flex;
+    justify-content:space-between
+
+}
+
+body {
+    background: grey;
+}
+
+
+
+
+
+
+
+
