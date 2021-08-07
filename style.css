@@ -42,10 +42,12 @@ h2 {
 #img1 {
     border: solid blue 5px;
     border-radius: 5px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 50px;
+    color: black;
     display:flex;
-    justify-content:space-between
+    justify-content:space-between;
+    
 }
 
 #food {
@@ -114,6 +116,27 @@ h4 {
 
 body {
     background: grey;
+}
+
+#home {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: white;
+}
+
+#foods {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: white;
+}
+
+#salifs {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: white;
 }
 
 
